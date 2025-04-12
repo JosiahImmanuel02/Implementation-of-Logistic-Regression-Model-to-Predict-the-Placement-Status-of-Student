@@ -1,11 +1,14 @@
 ## Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
 
+
 ## AIM:
 To write a program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
+
 
 ## Equipments Required:
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Jupyter notebook
+
 
 ## Algorithm
 1.import pandas module.
@@ -23,6 +26,7 @@ Anaconda – Python 3.7 Installation / Jupyter notebook
 7.print the required values.
 
 8.End the program.
+
 
 ## Program:
 /*
@@ -116,19 +120,27 @@ print(lr.predict([prediction]))
 
 ![Screenshot 2025-04-12 102414](https://github.com/user-attachments/assets/817311b9-b51a-4424-8776-3d668b6d81e5)
 
+
 ![Screenshot 2025-04-12 102437](https://github.com/user-attachments/assets/2548c2cf-119f-4c4f-ab33-441636cd3717)
+
 
 ![Screenshot 2025-04-12 102454](https://github.com/user-attachments/assets/baf08e94-4396-46ea-a2f5-dbe48b070851)
 
+
 ![Screenshot 2025-04-12 102523](https://github.com/user-attachments/assets/1dad7bb4-18f9-45f7-8396-f72dd13a0fad)
+
 
 ![Screenshot 2025-04-12 102536](https://github.com/user-attachments/assets/460c1f81-5a95-4d7d-a6f6-706be66000a1)
 
+
 ![Screenshot 2025-04-12 102553](https://github.com/user-attachments/assets/7008df37-3e89-4940-9e96-2c34e90ed9e9)
+
 
 ![Screenshot 2025-04-12 102607](https://github.com/user-attachments/assets/2fc5ae36-1237-4093-b964-d684f86f4a36)
 
+
 ![Screenshot 2025-04-12 102627](https://github.com/user-attachments/assets/a9cd30a0-12c9-40a8-be3e-0477a32496cf)
+
 
 ![Screenshot 2025-04-12 102653](https://github.com/user-attachments/assets/61f8eb40-c2b5-4895-a696-560f59f870ad)
 
